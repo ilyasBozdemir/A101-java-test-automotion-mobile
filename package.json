@@ -9,16 +9,36 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@wdio/cli": "^7.24.1",
+    "chai": "^4.3.6",
     "expo": "~46.0.9",
     "expo-splash-screen": "~0.16.2",
     "expo-status-bar": "~1.4.0",
     "react": "18.0.0",
     "react-dom": "18.0.0",
     "react-native": "0.69.5",
-    "react-native-web": "~0.18.7"
+    "react-native-web": "~0.18.7",
+    "webdriverio": "^7.24.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.12.9",
+    "@wdio/local-runner": "^7.24.1",
+    "@wdio/mocha-framework": "^7.24.1",
+    "@wdio/spec-reporter": "^7.24.1",
+    "chromedriver": "^105.0.1",
+    "wdio-chromedriver-service": "^7.3.2"
   },
-  "private": true
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilyasBozdemir/A101-java-test-automotion-mobile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilyasBozdemir/A101-java-test-automotion-mobile/issues"
+  },
+  "homepage": "https://github.com/ilyasBozdemir/A101-java-test-automotion-mobile#readme",
+  "description": ""
 }
