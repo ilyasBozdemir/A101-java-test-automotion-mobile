@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "A101-java-test-automotion-mobile",
+    "slug": "A101-java-test-automotion-mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "A101-java-test-automotion-mobile"
+}
